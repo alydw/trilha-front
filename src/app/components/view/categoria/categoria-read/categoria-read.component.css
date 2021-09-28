@@ -14,6 +14,32 @@
     font-weight: 500;
 }
 
+button{
+    margin-bottom: 1rem;
+}
+
+.buttonedit{
+    color: sandybrown;
+}
+
 .table{
     width: 100%;
+}
+
+.livros{
+    margin-left: 5rem;
+    color: sandybrown;
+}
+
+.edit{
+    color: white;
+}
+
+.delete {
+    color: red;
+    margin-left: .5rem;
+}
+
+.mat-header{
+    width: 5rem;
 }
